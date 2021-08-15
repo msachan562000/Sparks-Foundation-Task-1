@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-5-full-image-cover-template-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "Mrigank",
+  "license": "ISC",
+  "engines":{
+    "node":"16.4.0"
+  },
+  "dependencies": {
+    "alert": "^5.0.10",
+    "mongoose": "^5.13.7"
+  }
+}
